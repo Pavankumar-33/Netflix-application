@@ -1,0 +1,500 @@
+{
+    "title":"Thor: Love and Thunder",
+    "releaseDate":"2022 Auguest",
+    "category":"Action",
+    "movieDirector":"Jack Snyder",
+    "externalId":"0101",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "description":"After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+    "videourl":"https://www.youtube.com/watch?v=Go8nTmfrQd8&feature=youtu.be"
+}
+
+{
+    "title":"Prey (2022)",
+    "releaseDate":"2022 August",
+    "category":"Action",
+    "movieDirector":"Dan Trachtenberg",
+    "externalId":"0102",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
+    "description":"When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.",
+    "videourl":"https://www.youtube.com/watch?v=wZ7LytagKlc&feature=youtu.be"
+}
+
+{
+    "title":"Jurassic World Dominion (2022)",
+    "releaseDate":"2022 July",
+    "category":"Adventure",
+    "movieDirector":"Derek Connolly",
+    "externalId":"0103",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
+    "description":"Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.",
+    "videourl":"https://www.youtube.com/watch?v=UtxAPXT4174&feature=youtu.be"
+}
+
+{
+    "title":"Minions: The Rise of Gru (2022)",
+    "releaseDate":"2022 July",
+    "category":"Comedy",
+    "movieDirector":"Derek Connolly",
+    "externalId":"0104",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+    "description":"A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+    "videourl":"https://www.youtube.com/watch?v=6DxjJzmYsXo&feature=youtu.be"
+}
+{
+    "title":"Top Gun: Maverick (2022)",
+    "releaseDate":"2022 May",
+    "category":"Action",
+    "movieDirector":"Joseph Kosinski",
+    "externalId":"0106",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "description":"After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+    "videourl":"https://www.youtube.com/watch?v=giXco2jaZ_4&feature=youtu.be"
+}
+
+
+{
+    "title":"Luck (2022)",
+    "releaseDate":"2022 May",
+    "category":"Comedy",
+    "movieDirector":"Glenn Berger",
+    "externalId":"0107",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/1HOYvwGFioUFL58UVvDRG6beEDm.jpg",
+    "description":"Suddenly finding herself in the never-before-seen Land of Luck, the unluckiest person in the world must unite with the magical creatures there to turn her luck around.",
+    "videourl":"https://www.youtube.com/watch?v=xSG5UX0EQVg&feature=youtu.be"
+}
+
+{
+    "title":"The Black Phone (2022)",
+    "releaseDate":"2022 May",
+    "category":"Comedy",
+    "movieDirector":"Joe Hill",
+    "externalId":"0108",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/lr11mCT85T1JanlgjMuhs9nMht4.jpg",
+    "description":"Suddenly finding herself in the never-before-seen Land of Luck, the unluckiest person in the world must unite with the magical creatures there to turn her luck around.",
+    "videourl":"https://www.youtube.com/watch?v=nQWAVkx8O74&feature=youtu.be"
+}
+
+{
+    "title":"Lightyear (2022)",
+    "releaseDate":"2022 July",
+    "category":"Comedy",
+    "movieDirector":"Angus MacLane",
+    "externalId":"0109",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
+    "description":"Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.",
+    "videourl":"https://youtu.be/0ir3Z8hLeHc"
+}
+
+{
+    "title":"Doctor Strange in the Multiverse of Madness (2022)",
+    "releaseDate":"2022 May",
+    "category":"Action",
+    "movieDirector":"Angus MacLane",
+    "externalId":"0110",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+    "description":"Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+    "videourl":"https://www.youtube.com/watch?v=Rf8LAYJSOL8&feature=youtu.be"
+}
+
+{
+    "title":"The Gray Man (2022)",
+    "releaseDate":"2022 July",
+    "category":"Action",
+    "movieDirector":"Joe Russo",
+    "externalId":"0111",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+    "description":"When a shadowy CIA agent uncovers damning agency secrets, he's hunted across the globe by a sociopathic rogue operative who's put a bounty on his head.",
+    "videourl":"https://www.youtube.com/watch?v=OryyR6ad2rQ&feature=youtu.be"
+}
+
+{
+    "title":"Elvis (2022)",
+    "releaseDate":"2022 June",
+    "category":"Comedy",
+    "movieDirector":"Baz Luhrmann",
+    "externalId":"0112",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+    "description":"The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
+    "videourl":"https://www.youtube.com/watch?v=wBDLRvjHVOY&feature=youtu.be"
+}
+
+{
+    "title":"The Princess (2022)",
+    "releaseDate":"2022 January",
+    "category":"Action",
+    "movieDirector":"Lê Văn Kiệt",
+    "externalId":"0113",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/9pCoqX24a6rE981fY1O3PmhiwrB.jpg",
+    "description":"A beautiful, strong-willed young royal refuses to wed the cruel sociopath to whom she is betrothed and is kidnapped and locked in a remote tower of her father’s castle. With her scorned, vindictive suitor intent on taking her father’s throne, the princess must protect her family and save the kingdom.",
+    "videourl":"https://www.youtube.com/watch?v=6kFCkfdOfMU&feature=youtu.be"
+}
+
+{
+    "title":"Spider-Man: No Way Home (2021)",
+    "releaseDate":"2022 January",
+    "category":"Action",
+    "movieDirector":"Jeff Fowler",
+    "externalId":"0114",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "description":"Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "videourl":"https://www.youtube.com/watch?v=JfVOs4VSpmA&feature=youtu.be"
+}
+
+{
+    "title":"Sonic the Hedgehog 2 (2022)",
+    "releaseDate":"2022 January",
+    "category":"Adventure",
+    "movieDirector":"Jeff Fowler",
+    "externalId":"0115",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+    "description":"After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+    "videourl":"https://youtu.be/G5kzUpWAusI"
+}
+
+{
+    "title":"Last Seen Alive (2022)",
+    "releaseDate":"2022 February",
+    "category":"Action",
+    "movieDirector":"Brian Goodman",
+    "externalId":"0116",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/qvqyDj34Uivokf4qIvK4bH0m0qF.jpg",
+    "description":"After Will Spann's wife suddenly vanishes at a gas station, his desperate search to find her leads him down a dark path that forces him to run from authorities and take the law into his own hands.",
+    "videourl":"https://www.youtube.com/watch?v=PE7Sla2xL7U&feature=youtu.be"
+}
+
+{
+    "title":"Purple Hearts (2022)",
+    "releaseDate":"2022 March",
+    "category":"Action",
+    "movieDirector":"Elizabeth Allen Rosenbaum",
+    "externalId":"0117",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/4JyNWkryifWbWXJyxcWh3pVya6N.jpg",
+    "description":"An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
+    "videourl":"https://www.youtube.com/watch?v=WTLgg8oRSBE&feature=youtu.be"
+}
+
+{
+    "title":"Indemnity (2022)",
+    "releaseDate":"2022 March",
+    "category":"Action",
+    "movieDirector":"Elizabeth Allen Rosenbaum",
+    "externalId":"0118",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/tVbO8EAbegVtVkrl8wNhzoxS84N.jpg",
+    "description":"An ex-fireman with PTSD goes on the run when accused of a crime he doesn't even remember committing, leading him down a rabbit hole of conspiracy to the highest degree",
+    "videourl":"https://www.youtube.com/watch?v=91VVwnau22c&feature=youtu.be"
+}
+
+{
+    "title":"The Ledge (2022)",
+    "releaseDate":"2022 March",
+    "category":"Adventure",
+    "movieDirector":"Howard J. Ford",
+    "externalId":"0119",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/dHKfsdNcEPw7YIWFPIhqiuWrSAb.jpg",
+    "description":"A rock climbing adventure between two friends turns into a terrifying nightmare. After Kelly captures the murder of her best friend on camera, she becomes the next target of a tight-knit group of friends who will stop at nothing to destroy the evidence and anyone in their way. Desperate for her safety, she begins a treacherous climb up a mountain cliff and her survival instincts are put to the test when she becomes trapped with the killers just 20 feet away.",
+    "videourl":"https://www.youtube.com/watch?v=JGBa03UPCBU&feature=youtu.be"
+}
+
+{
+    "title":"Dragon Ball Super: Super Hero (2022)",
+    "releaseDate":"2022 May",
+    "category":"Comedy",
+    "movieDirector":"Tetsuro Kodama",
+    "externalId":"0120",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/rugyJdeoJm7cSJL1q4jBpTNbxyU.jpg",
+    "description":"The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.",
+    "videourl":"https://www.youtube.com/watch?v=t5CIs0jDqC8"
+}
+
+
+
+
+{
+    "title":"Constantine: The House of Mystery (2022)",
+    "releaseDate":"2022 March",
+    "category":"Adventure",
+    "movieDirector":"Matt Peters",
+    "externalId":"0120",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/kqYDoEb9PxLXM2ccoHInMMJalti.jpg"
+}
+
+
+
+{
+    "title":"Beast (2022)",
+    "releaseDate":"2022 August",
+    "category":"Horror",
+    "movieDirector":"Baltasar Kormákur",
+    "externalId":"0121",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/xIGr7UHsKf0URWmyyd5qFMAq4d8.jpg"
+}
+
+
+
+{
+    "title":"Morbius (2022))",
+    "releaseDate":"2022 June",
+    "category":"Horror",
+    "movieDirector":"Daniel Espinosa",
+    "externalId":"0122",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg"
+}
+
+
+{
+    "title":"Thirteen Lives (2022))",
+    "releaseDate":"2022 January",
+    "category":"Drama",
+    "movieDirector":"William Nicholson",
+    "externalId":"0123",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg"
+}
+
+
+{
+    "title":"X (2022)",
+    "releaseDate":"2021 March",
+    "category":"Horror",
+    "movieDirector":"Ti West",
+    "externalId":"0123",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg"
+}
+
+
+
+{
+    "title":"The Cellar (2022)",
+    "releaseDate":"2021 April",
+    "category":"Horror",
+    "movieDirector":"Brendan Muldowney",
+    "externalId":"0124",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/rtfGeS5WMXA6PtikIYUmYTSbVdg.jpg"
+}
+
+
+
+{
+    "title":"Mirreyes vs. Godínez 2: El retiro (2022)",
+    "releaseDate":"2021 November",
+    "category":"Drama",
+    "externalId":"0125",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/ba6CNrM9CdSVGR61NUHJ1uDfmLz.jpg"
+}
+
+
+
+{
+    "title":"Yool and Seul (2021)",
+    "releaseDate":"2021 December",
+    "category":"Drama",
+    "externalId":"0126",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/rn45MTTFCLxIIayAd88tZ4za3ic.jpg"
+}
+
+
+{
+    "title":"The Jack in the Box: Awakening (2022)",
+    "releaseDate":"2021 May",
+    "category":"Horror",
+    "externalId":"0127",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg"
+}
+
+
+{
+    "title":"Spiderhead (2022)",
+    "releaseDate":"2020 May",
+    "category":"Comedy",
+    "externalId":"0128",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/5hTK0J9SGPLSTFwcbU0ELlJsnAY.jpg"
+}
+
+
+{
+    "title":"One Piece Film: Red (2022)",
+    "releaseDate":"2020 June",
+    "category":"Drama",
+    "externalId":"0129",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/gpzMYQQrDLSihHmCLHAKT8h30Oc.jpg"
+}
+
+
+
+{
+    "title":"Venom: Let There Be Carnage (2021)",
+    "releaseDate":"2021 June",
+    "category":"Adventure",
+    "externalId":"0130",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg"
+}
+
+
+
+{
+    "title":"Nice Sister-In-Law (2015)",
+    "releaseDate":"2015 January",
+    "category":"Drama",
+    "externalId":"0131",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/g462IXqa1Id9R1Xtu3EzqiEOGwN.jpg"
+}
+
+
+
+{
+    "title":"After Ever Happy (2022)",
+    "releaseDate":"2022 January",
+    "category":"Drama",
+    "externalId":"0132",
+    "imgurl":"https://www.themoviedb.org/t/p/w1280/vWLyXOFm1C3gnS8ksfqi7gwkijn.jpg"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
